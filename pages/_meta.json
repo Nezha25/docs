@@ -1,0 +1,20 @@
+{
+  "index": {
+    "title": "Introduction"
+  },
+  "getting-started": {
+    "title": "Getting Started"
+  },
+  "creating-wordpress-posts": {
+    "title": "Creating WordPress Posts"
+  },
+  "publishing-options": {
+    "title": "Publishing Options"
+  },
+  "tracking-content-links-with-google-sheets": {
+    "title": "Tracking Content Links with Google Sheets"
+  },
+  "conclusion": {
+    "title": "Conclusion"
+  }
+}
