@@ -17,4 +17,13 @@ module.exports = {
   basePath: '/docs',
   output: 'export',
   images: { unoptimized: true },
+  async redirects() {
+    return [
+      {
+        source: '/',
+        destination: '/docs/introduction',
+        permanent: true,
+      },
+    ];
+  },
 }
